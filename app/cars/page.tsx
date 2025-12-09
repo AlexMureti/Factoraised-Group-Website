@@ -6,7 +6,7 @@ import { Footer } from "@/components/footer"
 import { WhatsAppSticky } from "@/components/whatsapp-sticky"
 import { SearchFilters, type Filters } from "@/components/search-filters"
 import { InventoryCard } from "@/components/inventory-card"
-import { inventory } from "@/lib/inventory"
+import { inventory } from "@/Factoraised-Group-Website/lib/inventory"
 import { Car, Grid3X3, MessageCircle } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
