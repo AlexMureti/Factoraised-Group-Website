@@ -1,0 +1,12 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/03201_next_dist_96d3690a._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__4761af87._.js")
+R.c("server/chunks/ssr/03201_next_dist_611bda7c._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__7f148858._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__4d0476b8._.js")
+R.c("server/chunks/ssr/03201_d323658e._.js")
+R.c("server/chunks/ssr/Downloads_wwhatat095317 (2)_2aab2b60._.js")
+R.c("server/chunks/ssr/03201_next_dist_client_components_d1e1bed2._.js")
+R.c("server/chunks/ssr/6c7f9_wwhatat095317 (2)__next-internal_server_app__not-found_page_actions_d2d8cb3b.js")
+R.m("[project]/Downloads/wwhatat095317 (2)/node_modules/next/dist/esm/build/templates/app-page.js?page=/_not-found/page { MODULE_0 => \"[project]/Downloads/wwhatat095317 (2)/app/layout.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_1 => \"[project]/Downloads/wwhatat095317 (2)/app/not-found.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_2 => \"[project]/Downloads/wwhatat095317 (2)/node_modules/next/dist/client/components/builtin/forbidden.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_3 => \"[project]/Downloads/wwhatat095317 (2)/node_modules/next/dist/client/components/builtin/unauthorized.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_4 => \"[project]/Downloads/wwhatat095317 (2)/app/not-found.tsx [app-rsc] (ecmascript, Next.js Server Component)\" } [app-rsc] (ecmascript)")
+module.exports=R.m("[project]/Downloads/wwhatat095317 (2)/node_modules/next/dist/esm/build/templates/app-page.js?page=/_not-found/page { MODULE_0 => \"[project]/Downloads/wwhatat095317 (2)/app/layout.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_1 => \"[project]/Downloads/wwhatat095317 (2)/app/not-found.tsx [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_2 => \"[project]/Downloads/wwhatat095317 (2)/node_modules/next/dist/client/components/builtin/forbidden.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_3 => \"[project]/Downloads/wwhatat095317 (2)/node_modules/next/dist/client/components/builtin/unauthorized.js [app-rsc] (ecmascript, Next.js Server Component)\", MODULE_4 => \"[project]/Downloads/wwhatat095317 (2)/app/not-found.tsx [app-rsc] (ecmascript, Next.js Server Component)\" } [app-rsc] (ecmascript)").exports
