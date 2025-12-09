@@ -33,7 +33,9 @@
     "**/*.ts",
     "**/*.tsx",
     "Factoraised-Group-Website/.next/types/**/*.ts",
-    "Factoraised-Group-Website/.next/dev/types/**/*.ts"
+    "Factoraised-Group-Website/.next/dev/types/**/*.ts",
+    ".next/types/**/*.ts",
+    ".next/dev/types/**/*.ts"
   ],
   "exclude": [
     "node_modules"

@@ -9,7 +9,7 @@ import { InventoryCard } from "@/components/inventory-card"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Card, CardContent } from "@/components/ui/card"
-import { inventory, formatMileage, getCarDisplayName } from "@/Factoraised-Group-Website/lib/inventory"
+import { inventory, formatMileage, getCarDisplayName } from "@/lib/inventory"
 import {
   MessageCircle,
   Phone,
