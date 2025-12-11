@@ -12,6 +12,7 @@ const navigation = [
   { name: "Inventory", href: "/cars" },
   { name: "Finance", href: "/finance" },
   { name: "Trade-In", href: "/trade-in" },
+  { name: "Spare Parts", href: "/spare-parts" },
   { name: "About", href: "/about" },
   { name: "Contact", href: "/contact" },
 ]

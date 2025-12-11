@@ -93,8 +93,19 @@ export default function FinancePage() {
       <Header />
       <main>
         {/* Hero Section */}
-        <section className="py-16 bg-gradient-to-b from-[#2A2D30]/50 to-[#0D0F11]">
-          <div className="container mx-auto px-4">
+        <section className="relative py-20 overflow-hidden border-b border-[#2A2D30]">
+          {/* Background Image */}
+          <div className="absolute inset-0 top-0 left-0 w-full h-full flex items-center justify-center bg-[#0D0F11]">
+            <img
+              src="https://i.pinimg.com/736x/dc/33/56/dc335616e9df227150a84c8a9b0c5d1e.jpg"
+              alt="finance background"
+              className="w-4/5 h-4/5 object-contain"
+            />
+            {/* Dark overlay for text readability */}
+            <div className="absolute inset-0 bg-gradient-to-r from-[#0D0F11]/95 via-[#0D0F11]/70 to-[#0D0F11]/95" />
+          </div>
+
+          <div className="container mx-auto px-4 relative z-10">
             <div className="max-w-3xl mx-auto text-center">
               <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[#0FB4FF]/10 border border-[#0FB4FF]/20 mb-6">
                 <Banknote className="h-4 w-4 text-[#0FB4FF]" />

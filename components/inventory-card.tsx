@@ -11,7 +11,7 @@ interface InventoryCardProps {
   car: CarType
 }
 
-const WHATSAPP_NUMBER = "254700000000"
+const WHATSAPP_NUMBER = "254762822207"
 
 export function InventoryCard({ car }: InventoryCardProps) {
   const displayName = getCarDisplayName(car)
